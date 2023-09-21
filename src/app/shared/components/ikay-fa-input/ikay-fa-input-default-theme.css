@@ -1,8 +1,0 @@
-:host {
-    border: 1px solid lightgray;
-    background: white;
-}
-
-:host(.input-focus) {
-    border: 2px solid blue;
-}
